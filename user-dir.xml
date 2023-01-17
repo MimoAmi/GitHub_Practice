@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+-<testdata>
+
+<url>http://demo.guru99.com/V4/</url>
+
+<username>mgr123</username>
+
+<password>mgr!23</password>
+
+<expected>Manger Id : mgr123</expected>
+
+<delay>4</delay>
+
+</testdata>
